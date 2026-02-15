@@ -65,7 +65,7 @@ pytest
 
 ---
 
-## 🧹 Check Code Style
+##  Check Code Style
 
 python -m flake8 .
 
