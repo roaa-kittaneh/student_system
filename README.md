@@ -1,11 +1,11 @@
-# 🎓 Student Management System
+# Student Management System
 
 A simple command-line Student Management System built with Python.  
 The project demonstrates object-oriented programming, clean project structure, exception handling, file exporting, and basic testing practices.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Register students (name, ID, email, grades)
 - Update student grades
@@ -18,9 +18,9 @@ The project demonstrates object-oriented programming, clean project structure, e
 - Tested with pytest
 
 ---
-
-## 🗂️ Project Structure
-
+و
+##  Project Structure
+```
 student_system/
 │
 ├── main.py                # CLI entry point
@@ -35,10 +35,10 @@ student_system/
 │   └── test_manager.py    # Unit tests
 │
 └── README.md
-
+```
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone the repository:
 
@@ -53,13 +53,13 @@ pip install pytest flake8
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 python main.py
 
 ---
 
-## 🧪 Run Tests
+##  Run Tests
 
 pytest
 
