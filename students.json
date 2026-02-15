@@ -1,0 +1,76 @@
+[
+  {
+    "student_id": "987",
+    "name": "roaa",
+    "email": "roaa2@gmail.com",
+    "grades": [
+      98.0
+    ]
+  },
+  {
+    "student_id": "999",
+    "name": "alaa",
+    "email": "alaa@gmail.com",
+    "grades": [
+      99.0
+    ]
+  },
+  {
+    "student_id": "888",
+    "name": "kenan",
+    "email": "kenan@gmail.com",
+    "grades": [
+      88.0
+    ]
+  },
+  {
+    "student_id": "777",
+    "name": "khaled",
+    "email": "khaled@gmail.com",
+    "grades": [
+      87.0
+    ]
+  },
+  {
+    "student_id": "666",
+    "name": "lina",
+    "email": "lina@gmail.com",
+    "grades": [
+      89.0
+    ]
+  },
+  {
+    "student_id": "S001",
+    "name": "Ali",
+    "email": "ali@email.com",
+    "grades": []
+  },
+  {
+    "student_id": "S002",
+    "name": "Sara",
+    "email": "sara@email.com",
+    "grades": []
+  },
+  {
+    "student_id": "S003",
+    "name": "Omar",
+    "email": "omar@email.com",
+    "grades": []
+  },
+  {
+    "student_id": "S004",
+    "name": "Lina",
+    "email": "lina@email.com",
+    "grades": [
+      90
+    ]
+  },
+  {
+    "student_id": "S005",
+    "name": "Top",
+    "email": "top@email.com",
+    "grades": [
+      100
+    ]
+  }
+]
